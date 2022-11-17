@@ -1,5 +1,7 @@
 # Cache Memory Simulator
 
+This is a project designed by Gabriel Teixeira together with Gabriel Lima
+
 To run the simulator, create a .txt file with the memory addresses and pass the name of this file in the command line along with the other arguments when calling the program.
 The passing of parameters follows the format below:
 
